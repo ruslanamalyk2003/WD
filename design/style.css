@@ -1,0 +1,531 @@
+.logo {
+	font-family: "Javanese Text";
+	font-size:36px;
+
+}
+.container {
+	margin: 0px 147px;
+}
+.header {
+	background-color:#FFF5D3 ;
+}
+body {
+	margin: 0px;
+}
+.header-line {
+	padding-top:10px;
+	display:flex;
+	align-items:center;
+	justify-content: space-around;
+}
+.nav-item {
+	color: black;
+	text-decoration:none;
+	font-family:"Expletus Sans";
+	font-weight: 300;
+	font-size: 14px;
+	margin-right: 90px;
+}
+.nav-item:hover {
+	text-decoration: underline;
+	transition: 0.2s linear;
+}
+.button {
+	margin-top: 0px;
+}
+.btn{
+	background-color:#FFD29D ;
+	color: black;
+	text-decoration:none;
+	padding: 7px 28px;
+	font-family: "Expletus Sans";
+	font-weight:300;
+	font-size: 14px;
+
+}
+.btn:hover {
+	background-color:#D7A163;
+	transition: 0.3s linear;
+}
+.landing {
+	background-image: url("image1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	margin-left: 0px;
+	padding: 37px 150px;
+	padding-bottom: 37px;
+	padding-top: 100px;
+}
+.h1 {
+	header: relative;
+	font-size:48px;
+	font-weight: 400;
+	color: white;
+	margin-left: 302px;
+	margin-top: 117px;
+
+}
+.h2 {
+	font-family:"Mulish" ;
+	font-size: 16px;
+	font-weight: 500;
+	padding-top: 30px;
+	margin-left: 482px;
+	color: white;
+}
+.btn1 {
+	background-color:#FFD29D ;
+	color: black;
+	text-decoration:none;
+	padding: 7px 28px;
+	font-family: "Expletus Sans";
+	font-weight:300;
+	font-size: 14px;
+	margin-left: 548px;
+
+}
+.btn1:hover {
+	background-color:#D7A163;
+	transition: 0.3s linear;
+}
+.button1 {
+	h2: relative;
+	margin-top: 30px;
+}
+.icons {
+	padding-top: 115px;
+	margin-left: 100px;
+}
+.slider {
+	font-family: "Javanese Text";
+	font-size: 13px;
+	color: white;
+	font-weight: 400;
+	text-decoration: none;
+	padding-top: 115px;
+	padding-left: 700px;
+
+}
+.f {
+	display: flex;
+}
+.ingot {
+	margin-left: 1236px;
+	margin-top: -28px;
+}
+.inf {
+	margin-top: 55px;
+	text-align: center;
+	color: #B77D3A;
+	font-family: "Javanese Text";
+	font-size: 14px;
+	font-weight: 400;
+}
+.h {
+	color: #B77D3A;
+	font-family: "Javanese Text";
+	font-weight: 400;
+	font-size: 48px;
+	text-align: center;
+
+}
+.block1 {
+	background-color: #FFF5D3;
+	position: absolute;
+	width: 1519px;
+	height: 696px;
+	left: 0px;
+	top: 636px;
+}
+.card {
+	display: block;
+	margin-right: 97px;
+
+}
+
+.he {
+	color: #613618;
+	font-family: "Javanese Text";
+	font-weight: 400;
+	font-size: 24px;
+	margin-left: 38px;
+}
+.info {
+	color: #4D2B13;
+	font-family: "Javanese Text";
+	font-weight: 400;
+	font-size: 12px;
+	width: 210px;
+	padding: 0px 20px;
+}
+.link {
+	color: #613618;
+	font-family: "Expletus Sans";
+	font-weight: 400;
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 90px;
+}
+.link:hover {
+	text-decoration: underline;
+	transition: 0.2s linear;
+}
+.image {
+	width: 250px;
+	height: 220px;
+	left: 248px;
+	top: 766px;
+	margin-top: 30px;
+	background: url(1.jpg);
+	border: 3px solid rgba(139, 87, 49, 0.45);
+	box-sizing: border-box;
+	border-radius: 125px 125px 0px 0px;
+
+}
+.in {
+	background-color:  #FFD29D;
+	width: 250px;
+	height: 178px;
+	margin-top: -4px;
+}
+.cards {
+	display: flex;
+	align-items: center;
+	padding: 0px 140px;
+}
+.inf1 {
+	margin-top: 135px;
+	text-align: left;
+	color: #B77D3A;
+	font-family: "Javanese Text";
+	font-size: 14px;
+	font-weight: 400;
+	padding-left: 140px;
+}
+.hed {
+	color: #613618;
+	font-family: "Javanese Text";
+	font-weight: 400;
+	font-size: 24px;
+	margin-left: 110px;
+}
+.info1 {
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 27px;
+	letter-spacing: -0.055em;
+	width: 365px;
+	height: 108px;
+	left: 245px;
+	top: 1379px;
+	margin-left: 90px;
+}
+	.btn2 {
+	background-color:#FFD29D ;
+	color: black;
+	text-decoration:none;
+	padding: 7px 28px;
+	font-family: "Expletus Sans";
+	font-weight:300;
+	font-size: 14px;
+	margin-left: 175px;
+
+}
+.btn2:hover {
+	background-color:#D7A163;
+	transition: 0.3s linear;
+}
+.button2 {
+	h2: relative;
+	margin-top: 30px;
+}
+.image2 {
+	width: 490px;
+	height: 439px;
+	left: 794px;
+	top: 1245px;
+	box-sizing: border-box;
+	border-radius: 0px 0px 245px 245px;
+	margin-left: 750px;
+	margin-top: -305px;
+}
+.block3 {
+	background-color: #FFD29D;
+	width: 1523px;
+	height: 382px;
+	left: 0px;
+	top: 1573px;
+	margin-left: -151px;
+	margin-top: -72px;
+	padding-top: 5px;
+}
+.inf3 {
+	margin-top: 31px;
+    text-align: center;
+    color: #B77D3A;
+    font-family: "Javanese Text";
+    font-size: 14px;
+    font-weight: 400;
+}
+.head {
+	color: #613618;
+    font-family: "Javanese Text";
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 654px;
+}
+.im {
+	margin-right: 85px;
+}
+.imges {
+	margin-left: 379px;
+}
+.like {
+	background: none;
+	border: none;
+	margin-left: 379px;
+	cursor: pointer;
+}
+.comments {
+	background: none;
+	border: none;
+	margin-left: -25px;
+	cursor: pointer;
+}
+.like1 {
+	background: none;
+	border: none;
+	margin-left: 127px;
+	cursor: pointer;
+}
+.comments1 {
+	background: none;
+	border: none;
+	margin-left: -25px;
+	cursor: pointer;
+}
+.like2 {
+	background: none;
+	border: none;
+	margin-left: 127px;
+	cursor: pointer;
+}
+.comments2 {
+	background: none;
+	border: none;
+	margin-left: -25px;
+	cursor: pointer;
+}
+.sh {
+	font-family: 'Expletus Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 10px;
+	margin-left: -546px;
+	text-decoration: none;
+	color: black;
+	margin-top: 19px;
+}
+.bim {
+	margin-top: 10px;
+}
+.feedback {
+	display: flex;
+}
+.sh1 {
+	font-family: 'Expletus Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 10px;
+	margin-left: 243px;
+	text-decoration: none;
+	color: black;
+	margin-top: 19px;
+}
+.sh2 {
+	font-family: 'Expletus Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 10px;
+	margin-left: 243px;
+	text-decoration: none;
+	color: black;
+	margin-top: 19px;
+}
+.block4 {
+	width: 1523px;
+	height: 720px;
+	left: 0px;
+	top: 1998px;
+	background-color: #FFF5D3;
+	margin-left: -151px;
+}
+hr {
+	margin-top: -4px;
+	border: 4px solid rgba(139, 87, 49, 0.45);
+	color: 8B5731;
+}
+.rect {
+	margin-top: 183px;
+	margin-left: 582px;
+}
+.info2 {
+	width: 307px;
+	height: 84px;
+	left: 574px;
+	top: 2238px;
+	margin-left: 620px;
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 21px;
+	letter-spacing: -0.055em;
+	color: #4D2B13;
+	margin-top: -158px;
+}
+.infh {
+	width: 186px;
+	height: 54px;
+	left: 635px;
+	top: 2181px;
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 54px;
+	color: #613618;
+	margin-left: 670px;
+	margin-top: -141px;
+}
+.btn3 {
+	background-color:#FFF5D3 ;
+	color: black;
+	text-decoration:none;
+	padding: 7px 28px;
+	font-family: "Expletus Sans";
+	font-weight:300;
+	font-size: 14px;
+	margin-left: 175px;
+
+}
+.btn3:hover {
+	background-color:#D7A163;
+	transition: 0.3s linear;
+}
+.button3 {
+	h2: relative;
+	margin-top: 103px;
+	margin-left: 523px;
+}
+.fhead {
+	width: 98px;
+	height: 50px;
+	left: 147px;
+	top: 2443px;
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 82px;
+	color: #000000;
+	margin-left: 147px;
+	margin-top: 50px;
+}
+.finf {
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 21px;
+	color: #4D2B13;
+	margin-left: 147px;
+	margin-top: 20px;
+}
+.form {
+	border: none;
+	height: 28px;
+	margin-left: 147px;
+	margin-top: 10px;
+}
+.fbtn {
+	background-color:#FFD29D ;
+	color: black;
+	text-decoration:none;
+	padding: 7px 28px;
+	font-family: "Expletus Sans";
+	font-weight:300;
+	font-size: 14px;
+	border: none;
+	
+}
+.blck {
+	width: 100px;
+	height: 9px;
+	left: 1029px;
+	top: 2459px;
+	font-family: 'Expletus Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 10px;
+	line-height: 13px;
+	color: #000000;
+	padding-bottom: 14px;
+}
+.lnk {
+	text-decoration: none;
+}
+.lnk:hover {
+	text-decoration: underline;
+	transition: 0.2s linear;
+}
+.blck_ft {
+	display: block;
+	margin-top: -120px;
+	margin-left: 1029px;
+}
+.blck_ft2 {
+	display: block;
+	margin-top: -140px;
+	margin-left: 1237px;
+}
+.block5 {
+	background-color: #FFD29D;
+	width: 1523px;
+	height: 54px;
+	left: 0px;
+	top: 2619px;
+	margin-left: -151px;
+	}
+.privacy {
+	font-family: 'Javanese Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 171.05%;
+	letter-spacing: -0.055em;
+	color: #FFFFFF;
+	margin-left: 147px;
+	padding-top: 18px;
+}
+.twt {
+	width: 20px;
+	height: 20px;
+}
+.fcb {
+	width: 20px;
+	height: 20px;
+}
+.inst {
+	width: 20px;
+	height: 20px;
+}
+.socials {
+	display: flex;
+	margin-left: 1272px;
+	margin-top: -18px;
+}
